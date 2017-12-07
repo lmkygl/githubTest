@@ -1,0 +1,22 @@
+{
+  "name": "githubtest",
+  "version": "1.0.0",
+  "description": "git init\r git add \"파일명\"\r git commit -m \"커밋할 메세지\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmkygl/githubTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmkygl/githubTest/issues"
+  },
+  "homepage": "https://github.com/lmkygl/githubTest#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
