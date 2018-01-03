@@ -8,6 +8,7 @@
 * git commit -m "커밋할 메세지"
 * git remote add origin 레포지토리 url 
 * git push -u origin master
+* git 연동 이메일과 비밀번호를 쳐서 push해준다.
 
 새로운 프로젝트를 시작할때마다 github에 레포지토리를 새로 생성해주는게 깔끔하게 정리됨
 
